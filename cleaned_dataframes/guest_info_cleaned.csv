@@ -1,0 +1,671 @@
+client_id,group_type,last_name,first_names,travel_agency,city,country
+1,mr and mrs,Heuzer,André en Maureen ,No,ALMERE,NETHERLANDS
+2,Unknown,Man ,M. de ,No,CAPELLE AAN DEN IJSSEL,NETHERLANDS
+3,Unknown,Burnay,M. ,No,LISBOA,PORTUGAL
+4,mr and mrs,Wesdorp,Henk en Elly,No,ERMELO,NETHERLANDS
+5,mr and mrs,Godefroy,M. en J.,No,HEEMSTEDE,NETHERLANDS
+6,mr and mrs,Bleumer,H. en J.,No,ZUTPHEN,NETHERLANDS
+7,mr and mrs,Engelen,M. en S. van ,No,RIDDERKERK,NETHERLANDS
+8,Unknown,Beekers,J.,No,BREDA,NETHERLANDS
+9,mr and mrs,Schaar,N. en I.,No,WILNIS,NETHERLANDS
+10,mr and mrs,CaSE bvba Ouden,Kees en Els den ,No,ESSEN,BELGIUM
+11,mr and mrs,Helsloot,Alfons en Lillian,No,ALMERE,NETHERLANDS
+12,mr and mrs,Lindenburg,R. en J.,No,PIJNACKER,NETHERLANDS
+13,mr and mrs,Seaward,M. en T.,No,CALGARY (ALBERTA),CANADA
+14,Unknown,Coelho,J.,No,FERRAGUDO,PORTUGAL
+15,Unknown,Wind,V. den ,No,DUIVENDRECHT,NETHERLANDS
+16,mr and mrs,Zwaan,Jos en Piet,No,ALMERE,NETHERLANDS
+17,mr and mrs,Beelen-Riemslag,Frits en Marianne,No,ROSMALEN,NETHERLANDS
+18,mr and mrs,Le Noble,M. en X. ,No,AMSTERDAM,NETHERLANDS
+19,Unknown,Bakker,W.,No,IJSSELSTEIN,NETHERLANDS
+20,Unknown,Alves Moreira Veiga,C.,No,SANTA MARIA DA FEIRA,PORTUGAL
+21,Unknown,Cordovil,Inés,No,LISBOA,PORTUGAL
+22,Unknown,Laar,A. van ,No,UTRECHT,NETHERLANDS
+23,Unknown,Silva Vidinha Tomás,J.F.,No,VISEU,PORTUGAL
+24,Unknown,Soetendal,L.,No,KATWIJK (ZH),NETHERLANDS
+25,mr and mrs,Heijden ,M. en M. van der ,No,DEN HAAG,NETHERLANDS
+26,Unknown,Nunes,A.,No,FARO,PORTUGAL
+27,Unknown,Mauro de Mesquita,Paulo ,No,Unknown,PORTUGAL
+28,mr and mrs,Riemslag,Peter en Els,No,BREDA,NETHERLANDS
+29,Unknown,Rombouts,M.,V.K.A.,ALMERE,NETHERLANDS
+30,Unknown,Hulzen,J. en B.,No,ALMERE,NETHERLANDS
+31,Unknown,Veen,Marc van der ,No,GOEDEREEDE,NETHERLANDS
+32,mr and mrs,Riemslag Fr.,Frans en Géke,No,HEILOO,NETHERLANDS
+33,Unknown,Rebelo,Rute,No,LISBOA,PORTUGAL
+34,mr and mrs,Donders,Marco en Margriet,No,TILBURG,NETHERLANDS
+35,Unknown,Janssen,Suzanne,No,LIESSEL,NETHERLANDS
+36,Unknown,Boone,Pieter,No,DELFT,NETHERLANDS
+37,mr and mrs,Lange,Ronald en Angelique,No,MAASTRICHT,NETHERLANDS
+38,mr and mrs,Heit,Robert en Karin,No,DIEMEN,NETHERLANDS
+39,Unknown,Mollee-Courant,Marise,No,OOSTZAAN,NETHERLANDS
+40,mr and mrs,Godefroy,Marion en Jos,No,HEEMSTEDE,NETHERLANDS
+41,Unknown,Kooijman,Mieke,No,ZOELEN,NETHERLANDS
+42,mr and mrs,Kors,Ed en Els,No,ALMERE,NETHERLANDS
+43,Unknown,Wiskerke-Zijdewind,Mirjam,No,OUDELANDE,NETHERLANDS
+44,mr and mrs,Van Os- Cornelissen,Cees en Astrid,No,ALMERE,NETHERLANDS
+45,Unknown,Bento,Paula,No,LISBOA,PORTUGAL
+46,mr and mrs,Zuidland,Annette en Garry,No,ROSMALEN,NETHERLANDS
+47,mr and mrs,Dias Raimundo,Ana Margarida en Nelson,No,BOBADELA,PORTUGAL
+48,Unknown,Cordeiro,Filipa,No,LISBOA,PORTUGAL
+49,Unknown,Barbosa Morujão,Daniela,No,COIMBRA,PORTUGAL
+50,Unknown,Gonçalves,Humberto,No,LISBOA,PORTUGAL
+51,Unknown,Meulenberg Costa Macedo,Wanda,No,OIERAS,PORTUGAL
+52,Unknown,Obrist,Martin,No,VISEU,PORTUGAL
+53,Unknown,Louwers,Pieter,No,TILBURG,NETHERLANDS
+54,Unknown,Mesquita Alves Castro Duarte,Filipa,No,MATOSINHOS,PORTUGAL
+55,Unknown,Humphrey,Ralph,No,LONDON,UNITED KINGDOM
+56,Unknown,Sorevis,Andreia Néri,No,VISEU,PORTUGAL
+57,Unknown,Van Embden,R.,No,PURMEREND,NETHERLANDS
+58,Unknown,Monteiro,Daniel,No,BRAGA,PORTUGAL
+59,Unknown,Stouthamer,Rinus,No,VLISSINGEN,NETHERLANDS
+60,Unknown,Tecelão,Carla,No,LISBOA,PORTUGAL
+61,Unknown,Haagsma,Jan Gerard,No,WOUBRUGGE,NETHERLANDS
+62,Unknown,Hartlief,Maaike,No,MALDEN,NETHERLANDS
+63,mr and mrs,Aker,Jeroen en Monique,No,ZWAAGWIJK-WEST,NETHERLANDS
+64,Unknown,Seppenwoolde,Henk,No,SANTPOORT-NOORD,NETHERLANDS
+65,Unknown,Middelkoop,Theo,No,ALMERE,NETHERLANDS
+66,mr and mrs,Möhring,Gerard en Lida,No,KOOG AAN DE ZAAN,NETHERLANDS
+67,mr and mrs,Mühlen,Marco und Sabine,No,WISMAR,DEUTSCHLAND
+68,Unknown,Wijnsma,Maria,No,UTRECHT,NETHERLANDS
+69,Unknown,van den Broeck,Nadia,No,MERKSEM-ANTWERPEN,BELGIUM
+70,Unknown,Dias Caroça,Piedade,No,BONDY,FRANCE
+71,Unknown,Starren,Britt,No,DEN HAAG,NETHERLANDS
+72,Unknown,van den Heerik,Henk,No,BROEK OP LANGEDIJK,NETHERLANDS
+73,Unknown,Carranca,Cristina M.,No,CASCAIS-LISBOA,PORTUGAL
+74,mr and mrs,Maandag,Trudy en Ben,No,ALMERE,NETHERLANDS
+75,Unknown,Graf Lda,Alexandra,No,PORTO,PORTUGAL
+76,Unknown,Pereira,Carlos,No,PORTO,PORTUGAL
+77,Unknown,Pereira da Silva,Luis Miguel,No,BRAGA,PORTUGAL
+78,Unknown,V.C.L.Mesquita,H. Manuel,No,PENAFIEL,PORTUGAL
+79,Unknown,Adegas-Indústria de Plásticos Lda,Carlos,No,SERZEDO VNG,PORTUGAL
+80,Unknown,Berkel,Ine van,No,AMSTERDAM,NETHERLANDS
+81,Unknown,Kolenberg,Marijs,No,AMSTELVEEN,NETHERLANDS
+82,mr and mrs,Maandag,Trudy en Ben,No,ALMERE,NETHERLANDS
+83,mr and mrs,Stapel,Rosanne en Geert,No,DELFT,NETHERLANDS
+84,mr and mrs,Salomé - Risseeuw,Els en Eri,No,VRIEZENVEEN,NETHERLANDS
+85,Unknown,Pronk,Unknown,No,WERKHOVEN,NETHERLANDS
+86,Unknown,Black,W.,No,DUBLIN,IRLANDA
+87,Unknown,Berrens,Marianne,No,ROTTERDAM,NETHERLANDS
+88,Unknown,Poiesz,Gerard,No,OUD-BEIJERLAND,NETHERLANDS
+89,mr and mrs,Hilz-Vinke,Geke en Peter,No,ROTTERDAM,NETHERLANDS
+90,mr and mrs,Greiner,Andries en Marjolein,No,LELYSTAD,NETHERLANDS
+91,Unknown,Woerden,Fred,No,AMSTERDAM,NETHERLANDS
+92,Unknown,Houten,R.T. van,No,WAGENINGEN,NETHERLANDS
+93,Unknown,Gelder,Peter van,No,ALMERE,NETHERLANDS
+94,mr and mrs,Santa Rosa Pinho Miran,Thomás en Rita,No,LEÇA DA PALMEIRA,PORTUGAL
+95,Unknown,Portal,Matthieu du,No,LA ROCHELLE,FRANCE
+96,Unknown,Baptista,João,No,PORTO,PORTUGAL
+97,Unknown,Hazel,Evelien van den,No,HILVERSUM,NETHERLANDS
+98,Unknown,Lange,Veerle,No,MAASTRICHT,NETHERLANDS
+99,Unknown,Magicbox Lda.,Unknown,No,CASCAIS,PORTUGAL
+100,Unknown,ARPTA,Unknown,No,GRÂNDOLA,PORTUGAL
+101,mr and mrs,Delhaas,Bert en Ingrid,No,ROTTERDAM,NETHERLANDS
+102,Unknown,Delhaas J.,J.F.,No,BERGSCHENHOEK,NETHERLANDS
+103,Unknown,Vries,de,Casita Travel,APELDOORN,NETHERLANDS
+104,Unknown,Platenburg,Unknown,Casita Travel,APELDOORN,NETHERLANDS
+105,Unknown,Riemslag Mieke,Mieke,No,OOSTERHOUT NB,NETHERLANDS
+106,Unknown,Kieft-Dijsselbloem,Unknown,No,AMERSFOORT,NETHERLANDS
+107,mr and mrs,Hoff,Lineke en Anneke van 't,No,KOOG AAN DE ZAAN,NETHERLANDS
+108,Unknown,Ulot,Henny,No,HEILOO,NETHERLANDS
+109,Unknown,Lagrand,Unknown,Casita Travel,APELDOORN,NETHERLANDS
+110,Unknown,Dautzenberg,Unknown,Casita Travel,APELDOORN,NETHERLANDS
+214,family,Peijnenburg,Ben en Guida,No,WOERDEN,NETHERLANDS
+112,Unknown,Smedema,Unknown,EWH,UTRECHT,NETHERLANDS
+113,mr and mrs,Riemslag C.,Cees en Anneriet,No,BREDA,NETHERLANDS
+114,Unknown,Hulya Cal,Unknown,EWH,UTRECHT,NETHERLANDS
+115,Unknown,Fam Hilz-Vinke,Unknown,No,ROTTERDAM,NETHERLANDS
+116,mr and mrs,Kroon,Sjef en Corrie de,No,B-FELENNE,BELGIUM
+117,mr and mrs,Man,Steven en Margriet,EWH,UTRECHT,NETHERLANDS
+118,Unknown,Weijmer,Unknown,EWH,UTRECHT,NETHERLANDS
+119,Unknown,Lauwerijssen,Unknown,EWH,UTRECHT,NETHERLANDS
+120,Unknown,Oosten,Gijs van ,No,OESTGEEST,NETHERLANDS
+121,Unknown,Dietvorst,Frank,No,EINDHOVEN,NETHERLANDS
+122,Unknown,Willemsen,Madde,No,GOIRLE,NETHERLANDS
+123,Unknown,Ollefers,Unknown,No,ROTTERDAM,NETHERLANDS
+124,Unknown,Blom,Pauline ,No,VEJER DE LA FRONTERA,ESPANHA
+125,Unknown,Edens-Schipper,D.M.M.,No,PEINS,NETHERLANDS
+126,Unknown,Scholte,Floor,No,ROTTERDAM,NETHERLANDS
+127,Unknown,Scholte,Floor,No,ROTTERDAM,NETHERLANDS
+128,Unknown,Huygens,Rie,No,LARCHANT,FRANCE
+129,Unknown,Bosch,van de,EWH,UTRECHT,NETHERLANDS
+130,Unknown,Roy,van,EWH,UTRECHT,NETHERLANDS
+131,Unknown,Vries,Marjan,No,NOORDHOORN,NETHERLANDS
+132,Unknown,Nijpels,Unknown,EWH,UTRECHT,NETHERLANDS
+133,Unknown,Klooster,van den,EWH,UTRECHT,NETHERLANDS
+134,Unknown,Steen,van der,EWH,UTRECHT,NETHERLANDS
+135,Unknown,Mons,Ellen,No,VOORBURG,NETHERLANDS
+136,Unknown,Boer,Gerben de,No,ALMERE,NETHERLANDS
+137,mr and mrs,Lier-Klapwijk,Marijke en Christine,No,BEVERWIJK,NETHERLANDS
+138,mr and mrs,Alphen,Dik en Linda van,No,MONSTER,NETHERLANDS
+139,Unknown,Bijl,Elly van der,No,MARKNESSE,NETHERLANDS
+140,Unknown,Molenaar,Hendrik,EWH,UTRECHT,NETHERLANDS
+141,Unknown,Hussaarts,J.B.,No,ALMERE,NETHERLANDS
+142,Unknown,Straver,Unknown,Casita Travel,APELDOORN,NETHERLANDS
+143,mr and mrs,Berg,Willy van den,No,ALMERE,NETHERLANDS
+145,Unknown,Gansei,Unknown,EWH,UTRECHT,NETHERLANDS
+146,mr and mrs,Beekelaar,Nico en Geannet,No,UTRECHT,NETHERLANDS
+147,Unknown,Zevalos,Pedro,No,LISBOA,PORTUGAL
+149,family,de Vries,Jan en Geertruida,No,EPSE,NETHERLANDS
+150,Unknown,Michon,Edmund,EWH,UTRECHT,NETHERLANDS
+151,Unknown,Verkade,Jane,EWH,UTRECHT,NETHERLANDS
+152,Unknown,Sturm,René,No,ALKMAAR,NETHERLANDS
+153,family,Casita Travel (family Straver en Verburg),Ronald en Cornelia,Casita Travel ,APELDOORN,NETHERLANDS
+154,Unknown,Eliza was here (Edmond Michon),Unknown,EWH,UTRECHT,NETHERLANDS
+155,mr and mrs,Lineke van 't Hoff en Anneke de Jonge,Lineke en Anneke,No,KOOG AAN DE ZAAN,NETHERLANDS
+156,Unknown,Eliza was here (Jane Verkade),Unknown,EWH,UTRECHT,NETHERLANDS
+157,mr and mrs,Zwaan,Jos en Piet,No,ALMERE,NETHERLANDS
+158,family,Salomé-Risseeuw,Els & Erie,No,VRIEZENVEEN,NETHERLANDS
+159,Unknown,J.B. Hussaarts,Unknown,No,ALMERE,NETHERLANDS
+160,family,I. Van Gelder,Inge,No,ALMERE,NETHERLANDS
+161,mr and mrs,J.G. Möhring,Gerard en Lida,No,KOOG AAN DE ZAAN,NETHERLANDS
+162,mr and mrs,M. Mühlen,Marco und Sabine,No,WISMAR,DEUTSCHLAND
+164,mr and mrs,Van der Meer,Jan en Els,No,NOOTDORP,NETHERLANDS
+165,Unknown,Riemslag,Cees en Anneriet,No,BREDA,NETHERLANDS
+166,family,Casita Travel (family Sewalt),Unknown,Casita Travel ,APELDOORN,NETHERLANDS
+167,family,The Travel Club Ede (t.b.v. family Backes),RosaRie Ciurians (family Backus),The Travel Club,EDE,NETHERLANDS
+168,Unknown,Koos van der Plas,Unknown,No,WASSENAAR,NETHERLANDS
+169,family,Casita Travel (family Jongkind),Unknown,Casita Travel ,APELDOORN,NETHERLANDS
+170,Unknown,Angela Aengevaeren,Angela,No,BERKEL EN RODENRIJS,NETHERLANDS
+171,Unknown,Herman Fransen,Herman,No,AMERSFOORT,NETHERLANDS
+172,mr and mrs,Muck Gehem,Muck en Gerard,No,AMSTELVEEN,NETHERLANDS
+173,Unknown,Eliza was here (Miranda van Maaren),Unknown,EWH,UTRECHT,NETHERLANDS
+174,mr and mrs,De Kroon,Sjef en Corrie,No,B-FELENNE,BELGIUM
+175,mr and mrs,Dorus Verster en Agneta Evenhuis,Dorus en Agneta,No,BREDA,NETHERLANDS
+176,Unknown,Eliza was here (Petra Filius),Unknown,EWH,UTRECHT,NETHERLANDS
+177,Unknown,Eliza was here (Frederikus Martens),Unknown,EWH,UTRECHT,NETHERLANDS
+178,Unknown,Mirjam van Bergen,Unknown,No,ADORP,NETHERLANDS
+179,family,Spanenburg,Unknown,No,DEN HAAG,NETHERLANDS
+180,Unknown,Ine van Berkel,Ine,No,AMSTERDAM,NETHERLANDS
+181,mr and mrs,Piedade Dias Caroca,Piedade en João,No,BONDY,FRANCE
+182,Unknown,Maurice Boxman,Maurice,No,UTRECHT,NETHERLANDS
+183,Unknown,Marcel van der Broek,Marcel,No,DEN HAAG,NETHERLANDS
+184,family,Dijkstra,Unknown,No,UTRECHT,NETHERLANDS
+185,mr and mrs,Marijs Kolenberg en Chris Janaway,Marijs en Chris,No,MALVEIRA DA SERRA,PORTUGAL
+186,Unknown,M. Schut,Unknown,No,HAARLEM,NETHERLANDS
+187,family,J.W Derksen,Jan-Wick,No,GORINCHEM,NETHERLANDS
+188,Unknown,João Mota da Costa,Unknown,No,ALGÉS,PORTUGAL
+189,Unknown,Yvo van Os,Yvo,No,DEN HAAG,NETHERLANDS
+190,mr and mrs,F. Riemslag,Géke en Frans,No,HEILOO,NETHERLANDS
+191,Unknown,Daria Scagliola/Jannes Linders,Unknown,No,ROTTERDAM,NETHERLANDS
+192,Unknown,Eliza was here (Gretha van der Meer),Unknown,EWH,UTRECHT,NETHERLANDS
+193,Unknown,Martin Riemslag,Martin,No,AMSTERDAM,NETHERLANDS
+194,family,Hein,Elisabeth,No,HAARLEM,NETHERLANDS
+195,Unknown,Eliza was here (Bram Klabbers),Unknown,EWH,UTRECHT,NETHERLANDS
+196,Unknown,Eliza was here (Nuninga),Unknown,EWH,UTRECHT,NETHERLANDS
+197,Unknown,Eliza was here (Kaspers),Unknown,EWH,UTRECHT,NETHERLANDS
+198,Unknown,Eliza was here (Winkel),Unknown,EWH,UTRECHT,NETHERLANDS
+199,Unknown,Eliza was here (Ike),Unknown,EWH,UTRECHT,NETHERLANDS
+200,Unknown,G. Riemslag,Géke en Frans,No,HEILOO,NETHERLANDS
+201,Unknown,Eliza was here (Blomme),Unknown,EWH,UTRECHT,NETHERLANDS
+202,Unknown,Eliza was here (Wiersma),Unknown,EWH,UTRECHT,NETHERLANDS
+203,Unknown,Päivi Mannerkorpi,Unknown,No,OVERIJSSE,BELGIUM
+204,Unknown,Frans en Géke Riemslag,Unknown,No,HEILOO,NETHERLANDS
+205,Unknown,Tineke van Noortwijk,Tineke,No,HEERHUGOWAARD,NETHERLANDS
+206,family,De Bres - Riemslag,"Erik, Eva, Meike en Joris",No,AMSTERDAM,NETHERLANDS
+207,family,Riemslag - Van Eck,"Ramona,Sors en Coen",No,HEILOO,NETHERLANDS
+208,Unknown,L.J.A. Akse,Lambert,No,TIEL,NETHERLANDS
+209,Unknown,Bonnie Nijboer en Wim van Gelder,Unknown,No,CALLANTSOOG,NETHERLANDS
+210,Unknown,Evelien van den Hazel,Evelien,No,HILVERSUM,NETHERLANDS
+215,Unknown,M. Beelen - Riemslag,Marianne,No,ROSMALEN,NETHERLANDS
+216,Unknown,Eliza was here (Groenendal),Unknown,EWH,UTRECHT,NETHERLANDS
+217,Unknown,Mark en Anne Riemslag,Unknown,No,Unknown,NETHERLANDS
+218,Unknown,Pauli Zuijdhoek,Unknown,No,WEESP,NETHERLANDS
+219,Unknown,Eliza was here (Sleyfer),Unknown,EWH,UTRECHT,NETHERLANDS
+220,Unknown,Eliza was here (Windhorst),Unknown,EWH,UTRECHT,NETHERLANDS
+221,mr and mrs,Koen Schimmer,Koen en Mischa,No,CAPELLE AAN DEN IJSSEL,NETHERLANDS
+222,Unknown,C. Bink en L. Aarsen,Unknown,No,AMSTERDAM,NETHERLANDS
+223,mr and mrs,Dorus Verster en Agneta Evenhuis,Dorus en Agneta,No,ULVENHOUT,NETHERLANDS
+224,Unknown,René Pruysers,Unknown,No,HAAKSBERGEN,NETHERLANDS
+225,Unknown,Eliza was here (Nassuth),Unknown,EWH,UTRECHT,NETHERLANDS
+226,Unknown,Oscar en José Estevez,Unknown,No,HEILOO,NETHERLANDS
+227,mr and mrs,Martin Riemslag ,Martin en Kim,No,HEILOO,NETHERLANDS
+228,Unknown,Eliza was here (Wuring),Unknown,EWH,UTRECHT,NETHERLANDS
+229,Unknown,Eliza was here (Leest),Unknown,EWH,UTRECHT,NETHERLANDS
+230,Unknown,Eliza was here (Jongman),Unknown,EWH,UTRECHT,NETHERLANDS
+231,Unknown,Eliza was here (Voerman),Unknown,EWH,UTRECHT,NETHERLANDS
+232,Unknown,Maria Hermans,Unknown,No,MAASTRICHT,NETHERLANDS
+233,Unknown,Casita Travel (Huisman),Unknown,Casita Travel ,APELDOORN,NETHERLANDS
+234,Unknown,Eliza was here (Langedijk),Unknown,EWH,UTRECHT,NETHERLANDS
+235,Unknown,José Perdijk en Hans Roskam,Unknown,No,GOUDA,NETHERLANDS
+236,Unknown,Sebastiaan van Pinxteren,Unknown,No,NIJMEGEN,NETHERLANDS
+237,Unknown,Liesbeth Prijt-Mombers,Unknown,No,EINDHOVEN,NETHERLANDS
+238,family,The Travel Club (Familie Kormoss),RosaRie Ciurians,The Travel Club,DOETINCHEM,NETHERLANDS
+239,Unknown,Jolanda ten Hoff,Unknown,No,MUSSELKANAAL,NETHERLANDS
+240,Unknown,Joke Torn en Tineke Ras,Unknown,No,URK,NETHERLANDS
+241,Unknown,Eliza was here (Kleisterlee),Unknown,EWH,ROTTERDAM,NETHERLANDS
+242,Unknown,Eliza was here (De Jong),Unknown,EWH,ROTTERDAM,NETHERLANDS
+243,Unknown,Eliza was here (Bijlsma),Unknown,EWH,ROTTERDAM,NETHERLANDS
+244,Unknown,Sara Figini,Unknown,No,QUARTEIRA,PORTUGAL
+245,Unknown,Eliza was here (Verschragen),Unknown,EWH,ROTTERDAM,NETHERLANDS
+247,Unknown,Jan en Jolanda ten Hoff,Unknown,No,MUSSELKANAAL,NETHERLANDS
+248,Unknown,"Eliza was Here (Meijeren, van)",Unknown,EWH,ROTTERDAM,NETHERLANDS
+249,Unknown,Daphne Bremer,Unknown,No,HILVERSUM,NETHERLANDS
+250,Unknown,Bas Dorbeck en Aafje Sjollema,Unknown,No,AMSTERDAM,NETHERLANDS
+251,Unknown,R. Stouthamer,Rinus,No,VLISSINGEN,NETHERLANDS
+252,Unknown,Danielle Scheffer,Unknown,No,UITHOORN,NETHERLANDS
+253,Unknown,Oscar Nijst,Unknown,No,AMSTERDAM,NETHERLANDS
+254,Unknown,Sweder de Bruijn,Unknown,No,AMSTERDAM,NETHERLANDS
+255,Unknown,Robin Feijen,Unknown,No,AMSTERDAM,NETHERLANDS
+257,Unknown,M. Eenkhoorn,Unknown,No,LEEUWARDEN,NETHERLANDS
+258,Unknown,Sandra Groenendal,Unknown,No,VOORHOUT,NETHERLANDS
+259,Unknown,Marijke Schenk,Unknown,No,WAGENINGEN,NETHERLANDS
+260,Unknown,Eliza was Here (Kooijman),Unknown,EWH,ROTTERDAM,NETHERLANDS
+261,Unknown,Mira van Maaren,Unknown,No,UTRECHT,NETHERLANDS
+262,Unknown,A.M.L. Boelhouwer-Moons,Unknown,No,ROTTERDAM,NETHERLANDS
+263,Unknown,Juno Nimis,Unknown,No,ARNHEM,NETHERLANDS
+264,family,Familie Kalkman-Rieff,Unknown,No,LEIDEN,NETHERLANDS
+265,Unknown,Pamela Leest,Unknown,No,OIJEN,NETHERLANDS
+266,Unknown,R. de Jong,Unknown,No,HAREN,NETHERLANDS
+267,Unknown,Heidi Kempe en Bart Blokzijl,Unknown,No,AMSTERDAM,NETHERLANDS
+268,family,Casitatravel (Familie Wallage),Unknown,Casita Travel,APELDOORN,NETHERLANDS
+269,Unknown,Marja Overeem,Unknown,No,GIETERVEEN,NETHERLANDS
+270,Unknown,Roosenschoon,Pam ,No,ALMERE,NETHERLANDS
+271,Unknown,Feddes,Jacomijn ,No,TILBURG,NETHERLANDS
+272,Unknown,Margarida Teigas/Pedro Pereira,Unknown,No,LISBOA,PORTUGAL
+273,Unknown,Eliza was Here (Postma),Unknown,EWH,ROTTERDAM,NETHERLANDS
+274,Unknown,Maria do Rosário Martins Matias Miguel Silva,Unknown,No,LISBOA,PORTUGAL
+275,Unknown,F. Nonnekes en W. van Ekkendonk ,Unknown,No,LAGE ZWALUWEN,NETHERLANDS
+276,Unknown,Christianne Blankendaal,Unknown,No,WAARLAND,NETHERLANDS
+277,Unknown,Vitor Manuel Soares,Unknown,No,CESAR,PORTUGAL
+278,Unknown,Eliza was Here (Kiewit),Unknown,EWH,ROTTERDAM,NETHERLANDS
+279,Unknown,Eliza was Here (Suain),Unknown,EWH,ROTTERDAM,NETHERLANDS
+280,Unknown,Pedro Martins,Unknown,No,ALVERCA,PORTUGAL
+281,Unknown,Leila Costa,Unknown,No,CASCAIS,PORTUGAL
+282,Unknown,Gertom en Eliane de Beer,Unknown,No,DODEWAARD,NETHERLANDS
+283,Unknown,Eliza was Here (Krekels),Unknown,EWH,ROTTERDAM,NETHERLANDS
+284,Unknown,Bernardo Santos Vieira Lopes,Unknown,No,VILA NOVA DE GAIA,PORTUGAL
+285,Unknown,N. Mulder,Unknown,No,HOOFDDORP,NETHERLANDS
+286,Unknown,Eliza was Here (Drupsteen),Unknown,EWH,ROTTERDAM,NETHERLANDS
+287,Unknown,Jason Bitton,Unknown,No,HAMPSHIRE,UNITED KINGDOM
+288,Unknown,Marchien Hoffer,Unknown,No,NIJMEGEN,NETHERLANDS
+289,Unknown,K. Postma,Unknown,No,LANGWEER,NETHERLANDS
+290,Unknown,Eliza was Here (Van der Plas),Unknown,EWH,ROTTERDAM,NETHERLANDS
+291,Unknown,van Noortwijk,Tineke ,No,HEERHUGOWAARD,NETHERLANDS
+292,Unknown,Andrea Sommer und Johannes Schäper,Unknown,No,RÖSRATH,DEUTSCHLAND
+293,Unknown,Evelyn en Joop Krijgsman,Unknown,No,BERGHEM,NETHERLANDS
+294,Unknown,Eliza was Here (De Ruijter),Unknown,EWH,ROTTERDAM,NETHERLANDS
+295,Unknown,Ieke van Velden,Unknown,No,EDE,NETHERLANDS
+256,Unknown,Andre en Maureen Heuzer,Unknown,No,ALMERE,NETHERLANDS
+297,family,The Travel Club (Familie Bakker),The travel club,The Travel Club,CULEMBORG,NETHERLANDS
+298,Unknown,Hanneke Verdouw,Unknown,No,Unknown,NETHERLANDS
+300,Unknown,Andrea Stark-Berger,Unknown,No,HAMBURG,DEUTSCHLAND
+301,Unknown,Wilma Bakker en Jan Verhagen,Unknown,No,ALMERE,NETHERLANDS
+302,Unknown,Hilleke de Groot en Dick Steeman,Unknown,No,ALMERE,NETHERLANDS
+303,Unknown,Monique en Eric Lankhorst,Unknown,No,ALMERE,NETHERLANDS
+304,Unknown,Afra en Anneloes Conijn,Unknown,No,ALMERE,NETHERLANDS
+305,Unknown,Paula Galensloot,Unknown,No,ALMERE,NETHERLANDS
+306,Unknown,Inge Vaseur ,Unknown,No,ALMERE,NETHERLANDS
+307,Unknown,Francine Hanse,Unknown,No,ALMERE,NETHERLANDS
+308,Unknown,Diane Kaiser,Unknown,No,LONDON,UNITED KINGDOM
+309,Unknown,Addy Beukema,Unknown,No,UTRECHT,NETHERLANDS
+310,Unknown,Ulriikka Chaput and Pierre Nahon,Unknown,No,PARIS,FRANCE
+311,Unknown,Ellen Hoedjes,Unknown,No,VUGHT,NETHERLANDS
+312,Unknown,Andrea Stark-Berger,Unknown,No,HAMBURG,DEUTSCHLAND
+313,Unknown,Wilma Bakker en Jan Verhagen,Unknown,No,ALMERE,NETHERLANDS
+314,Unknown,Hilleke de Groot en Dick Steeman,Unknown,No,ALMERE,NETHERLANDS
+315,Unknown,Monique en Eric Lankhorst,Unknown,No,ALMERE,NETHERLANDS
+316,Unknown,Afra en Anneloes Conijn,Unknown,No,ALMERE,NETHERLANDS
+317,Unknown,Paula Galesloot,Unknown,No,ALMERE,NETHERLANDS
+318,Unknown,Inge Vasseur ,Unknown,No,ALMERE,NETHERLANDS
+319,Unknown,Francine Hanse,Unknown,No,ALMERE,NETHERLANDS
+320,Unknown,Géke Riemslag,Unknown,No,HEILOO,NETHERLANDS
+321,family,Eliza was Here (Familie Snoep),Unknown,EWH,ROTTERDAM,NETHERLANDS
+322,family,Eliza was Here (Familie Postma),Unknown,EWH,ROTTERDAM,NETHERLANDS
+323,Unknown,Ulrike und Carsten Jacobs,Unknown,No,RADEVORMWALD,DEUTSCHLAND
+324,family,Familie Tops-Luppens,Unknown,No,MOLLEM,BELGIUM
+325,Unknown,Bob en Digna Riemslag,Unknown,No,CAPELLE AAN DEN IJSSEL,NETHERLANDS
+326,Unknown,Pieter van Zutphen,Unknown,No,VIJFHUIZEN,NETHERLANDS
+328,family,Eliza was Here (Familie Westerink),Unknown,EWH,ROTTERDAM,NETHERLANDS
+329,Unknown,Hans de Boer en Elly Groeneveld,Unknown,No,WOERDEN,NETHERLANDS
+330,Unknown,Lara en Daan Reintjes,Unknown,No,BEEK (GEMEENTE BERG EN DAL),NETHERLANDS
+331,Unknown,Eliza was Here (Van Eck),Unknown,EWH,ROTTERDAM,NETHERLANDS
+332,Unknown,Annette Reitsma,Unknown,No,UTRECHT,NETHERLANDS
+333,Unknown,Willy de Kruijf,Unknown,No,OISTERWIJK,NETHERLANDS
+334,mr and mrs,Tom Sauer,Tom en Astrid,No,HERENT,BELGIUM
+335,Unknown,Eliza was Here (Riebe),Marjolein,EWH,ROTTERDAM,NETHERLANDS
+336,Unknown,Eliza was Here (Veldkamp),Florentina,EWH,ROTTERDAM,NETHERLANDS
+337,Unknown,Eric van den Heuvel,Unknown,No,BAVEL,NETHERLANDS
+338,Unknown,Wilma Cornelisse,Unknown,No,AMSTERDAM,NETHERLANDS
+339,Unknown,Eliza was Here (Wind),Jelle,EWH,ROTTERDAM,NETHERLANDS
+340,Unknown,Eliza was Here (Jansen),Cornelis,EWH,ROTTERDAM,NETHERLANDS
+341,Unknown,Eliza was Here (Schellekens),Unknown,EWH,ROTTERDAM,NETHERLANDS
+342,Unknown,Diana Kaiser,Unknown,No,LONDON,UNITED KINGDOM
+343,Unknown,Sissi van Vliet - Hoogstad,Unknown,No,RHOON,NETHERLANDS
+344,Unknown,Eliza was Here (Van der Borg),Gerardus,EWH,ROTTERDAM,NETHERLANDS
+346,Unknown,Eliza was Here (Schipperen),Unknown,EWH,ROTTERDAM,NETHERLANDS
+347,Unknown,"Eliza was Here (Broekert, de)",Unknown,EWH,ROTTERDAM,NETHERLANDS
+348,Unknown,Laura van Berkel,Unknown,No,HAARLEM,NETHERLANDS
+349,Unknown,Michel de Cocq en Hadewich Dingjan ,Carice,No,ROTTERDAM,NETHERLANDS
+350,Unknown,Peter de Langhe,Unknown,No,LOCRISTI,BELGIUM
+351,Unknown,Corine van Hoof,Unknown,No,DORDRECHT,NETHERLANDS
+352,Unknown,Robert John Matthews,Unknown,No,EDINBURGH,UNITED KINGDOM
+353,family,The Travel Club (Familie Jongedijk),Unknown,The Travel Club,CULEMBORG,NETHERLANDS
+354,Unknown,Eliza was Here (Kramer),Margaretha,EWH,ROTTERDAM,NETHERLANDS
+355,Unknown,Suzanne Fokke & Jelle Daalderop,Unknown,No,AMSTERDAM,NETHERLANDS
+356,Unknown,Eliza was Here (De Vries),Unknown,EWH,ROTTERDAM,NETHERLANDS
+357,Unknown,Hanneke van den Maagdenberg,Unknown,No,AMSTERDAM,NETHERLANDS
+358,Unknown,Dicky Smidt en Bernadette van der Horst,Unknown,No,LEEUWARDEN,NETHERLANDS
+359,Unknown,Phyllis Wallage en Henk Jan Kolthof,Unknown,No,AMSTELVEEN,NETHERLANDS
+360,Unknown,Marcelle Kasperaitis en Rob Benne,Unknown,No,MAARSEN,NETHERLANDS
+361,Unknown,Eliza was Here (Schrijver),Unknown,EWH,ROTTERDAM,NETHERLANDS
+362,Unknown,Eliza was Here (Veenendaal),Unknown,EWH,ROTTERDAM,NETHERLANDS
+363,Unknown,"Eliza was Here (Keizer, de)",Unknown,EWH,ROTTERDAM,NETHERLANDS
+364,Unknown,Casitatravel (Bijleveld),Unknown,No,APELDOORN,NETHERLANDS
+365,Unknown,"Eliza was Here (Wijlen, ter)",Unknown,EWH,ROTTERDAM,NETHERLANDS
+366,Unknown,Andreia Néri,Andreia,No,LISBOA,PORTUGAL
+367,Unknown,"EWH (Dijk, van)",Unknown,No,ROTTERDAM,NETHERLANDS
+368,Unknown,Louis Jagt,Annemiek,No,AMSTERDAM,NETHERLANDS
+369,Unknown,van Doorn,Ingeborn ,No,DOORN,NETHERLANDS
+370,mr and mrs,Jansen,Roel en Arjanne ,No,NIJMEGEN,NETHERLANDS
+327,Unknown,H.J. Klein,Rik ,No,GOEDEREEDE,NETHERLANDS
+372,Unknown,Caren Jagt,Unknown,No,MAASSLUIS,NETHERLANDS
+373,Unknown,EWH (Kleemans),Unknown,EWH,ROTTERDAM,NETHERLANDS
+374,Unknown,Marijke en Bernard  van der  Horst,Unknown,No,ODIJK,NETHERLANDS
+376,mr and mrs,Boelhouwer,Arjanne en Marc ,No,ROTTERDAM,NETHERLANDS
+377,mr and mrs,Janssen,Roel en Arjanne ,No,NIJMEGEN,NETHERLANDS
+378,Unknown,Klein,Rik ,No,GOEDEREEDE,NETHERLANDS
+379,Unknown,Kraal,Marian ,No,PAPENDRECHT,NETHERLANDS
+380,Unknown,Verdouw,Hanneke ,No,WASSENAAR,NETHERLANDS
+381,Unknown,Groenendal,Sandra ,No,VOORHOUT,NETHERLANDS
+382,Unknown,Hekelaar,Trudy ,No,SPIJKENISSE,NETHERLANDS
+383,Unknown,Kuiper,G.J.A.,No,MIDDENMEER,NETHERLANDS
+384,Unknown,EWH (Vossebeld),Unknown,No,ROTTERDAM,NETHERLANDS
+385,Unknown,Fellinger,"Bas, Margriet, Loes en Mies ",No,HAARLEM,NETHERLANDS
+386,Unknown,Storm,Carole van der ,No,ZANDVOORT,NETHERLANDS
+387,Unknown,EWH  (Prickaerts),Unknown,No,ROTTERDAM,NETHERLANDS
+388,Unknown,EWH (Wuring),Unknown,No,ROTTERDAM,NETHERLANDS
+389,Unknown,Visser,Dedy ,No,HARDERWIJK,NETHERLANDS
+390,Unknown,Visser,Dedy ,No,HARDERWIJK,NETHERLANDS
+391,Unknown,Boer,F.U. de ,No,GRONINGEN,NETHERLANDS
+392,family,Ardanza Reizen BV  (Fam. Griep),Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+393,Unknown,Overeem,Marja ,No,GIETERVEEN,NETHERLANDS
+394,Unknown,Bont,Leonie de ,No,ROTTERDAM,NETHERLANDS
+395,Unknown,Fleurbaaij  en Marjan Stoop,Marjolein ,No,AMSTERDAM,NETHERLANDS
+396,Unknown,Plas,Bob van der ,No,VEENENDAAL,NETHERLANDS
+397,Unknown,"ElWH (Stroete, te)",Unknown,No,ROTTERDAM,NETHERLANDS
+398,Unknown,Vasseur,Inge ,No,NAARDEN,NETHERLANDS
+399,Unknown,Galesloot ,Paula ,No,ALMERE,NETHERLANDS
+400,Unknown,Boer ,Janny de ,No,ALMERE,NETHERLANDS
+401,Unknown,Berndsen en Willem van Loenen,Thea ,No,ALMERE,NETHERLANDS
+402,Unknown,Bakker en Jan Verhagen,Wilma  ,No,ALMERE,NETHERLANDS
+403,Unknown,Koeman,Jan ,No,ALMERE,NETHERLANDS
+404,Unknown,Muller ,Coby ,No,ALMERE,NETHERLANDS
+405,mr and mrs,Markus,Irene en Remy ,No,APELDOORN,NETHERLANDS
+406,Unknown,Scheffer,Danielle ,No,UITHOORN,NETHERLANDS
+407,Unknown,Karlsson,Lena ,No,LIMHAMN,SWITZERLAND
+408,Unknown,Beekman-van den Hengel,Annet ,No,EMMELOORD,NETHERLANDS
+409,Unknown,EWH (Bastiaanse),Unknown,No,ROTTERDAM,NETHERLANDS
+410,mr and mrs,Riemslag,Frans en Géke ,No,HEILOO,NETHERLANDS
+411,Unknown,Cocq en Hadewich Dingjan ,Michel de ,No,ROTTERDAM,NETHERLANDS
+412,Unknown,Hoeven,Gertjan van der ,No,AALSMEER,NETHERLANDS
+413,mr and mrs,Keizer,Theo en Margreeth de ,No,HOOGVLIET,NETHERLANDS
+414,Unknown,Oetelaar,Patrick van den ,No,BAVEL,NETHERLANDS
+415,Unknown,EWH (Plinck),Unknown,No,ROTTERDAM,NETHERLANDS
+416,Unknown,Maaren,Mira van ,No,UTRECHT,NETHERLANDS
+417,Unknown,Bie,Anuschka de ,No,KOOG AAN DE ZAAN,NETHERLANDS
+418,family,Ardanza Reizen BV  (Familie Kruit),Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+419,family,Ardanza Reizen BV  (Familie Tok),Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+420,Unknown,Casita Travel (Langemaat),Unknown,Casita Travel ,APELDOORN,NETHERLANDS
+421,Unknown,Groenhuis,Herman ,No,EINDHOVEN,NETHERLANDS
+422,Unknown,Vollebergh,Marieke ,No,AMSTERDAM,NETHERLANDS
+423,Unknown,Pennings,Familie ,No,OESTGEEST,NETHERLANDS
+424,Unknown,Riemslag,"Sjors, Ramona, Coen en Faye ",No,HEILOO,NETHERLANDS
+425,Unknown,"EWH (Heijden, van der)",Unknown,No,ROTTERDAM,NETHERLANDS
+426,family,"Ardanza Reizen BV  (Familie Jong, de)",Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+427,Unknown,Stuijvenberg,Marleen ,No,AMSTERDAM,NETHERLANDS
+428,Unknown,Dhondt-Michiels,Ann ,No,SINT ANDRIES,BELGIUM
+429,Unknown,Farrington,Jo ,No,TAVISTOCK,UNITED KINGDOM
+430,Unknown,EWH (Keuper),Unknown,No,ROTTERDAM,NETHERLANDS
+431,mr and mrs,Nieuwenbroek,Marleen Postma en Ard ,No,ESCH,NETHERLANDS
+432,Unknown,Omroep Flevoland (Gerard van Ommen),Unknown,No,LELYSTAD,NETHERLANDS
+433,Unknown,EWH (Durand),Unknown,No,ROTTERDAM,NETHERLANDS
+434,Unknown,"EWH  (Breeje, den)",Unknown,No,ROTTERDAM,NETHERLANDS
+435,Unknown,Wiedemann,Anna ,No,LISBOA,PORTUGAL
+436,Unknown,EWH  (Winters),Unknown,No,ROTTERDAM,NETHERLANDS
+437,Unknown,EWH  (Sievers),Unknown,No,ROTTERDAM,NETHERLANDS
+438,Unknown,EWH (Blijlevens),Unknown,No,ROTTERDAM,NETHERLANDS
+439,family,Ardanza Reizen BV  (Familie Nagtegaal),Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+440,Unknown,Kadee,Peter ,No,VLAARDINGEN,NETHERLANDS
+441,Unknown,Jobling,Diane ,No,SAVIGNÉ SOUS LE LUDE,FRANCE
+442,Unknown,EWH (Boerma),Unknown,No,ROTTERDAM,NETHERLANDS
+443,mr and mrs,Sterk,Heidi en Mark ,No,EKEREN,BELGIUM
+444,Unknown,Slegt,Hanneke ,No,VORDEN,NETHERLANDS
+445,Unknown,EWH (Akkerman),Unknown,No,ROTTERDAM,NETHERLANDS
+446,Unknown,Velden,Ieke van ,No,EDE,NETHERLANDS
+447,Unknown,EWH (Breedveldt Boer),Unknown,No,ROTTERDAM,NETHERLANDS
+448,Unknown,Post,Monica ,No,AMSTERDAM,NETHERLANDS
+449,Unknown,EWH (Mulder),Unknown,No,ROTTERDAM,NETHERLANDS
+450,Unknown,Doelman,Elke ,No,KUDELSTAART,NETHERLANDS
+451,Unknown,Dorsten,Frank van ,No,SCHIJNDEL,NETHERLANDS
+452,Unknown,Wetzels,Marielle ,No,ROTTERDAM,NETHERLANDS
+453,mr and mrs,Marshall,Els en Keith ,No,HEILOO,NETHERLANDS
+454,Unknown,Mendes Westhoven,Paula ,No,DELFT,NETHERLANDS
+455,Unknown,Poorter,Ilse ,No,DEN HAAG,NETHERLANDS
+457,mr and mrs,Riemslag,Mark en Anne ,No,TIJSWIJK,NETHERLANDS
+460,Unknown,EWH (Boer),Unknown,No,ROTTERDAM,NETHERLANDS
+461,Unknown,Armando Barros Lima / Ana Maria Abreu Dias,Unknown,No,Unknown,PORTUGAL
+462,Unknown,EWH (Wielings en Maas),Unknown,No,ROTTERDAM,NETHERLANDS
+463,Unknown,Nette-van Vaerenbergh,Ellen ,No,SLEEUWIJK,NETHERLANDS
+464,Unknown,Vinken,Jakko ,No,AMSTERDAM,NETHERLANDS
+465,mr and mrs,Blanksma,Sandra en Kees ,No,ALKMAAR,NETHERLANDS
+466,Unknown,Beek,Michael van ,No,BERKHOUT,NETHERLANDS
+467,Unknown,Hilberath,Corine ,No,OESTGEEST,NETHERLANDS
+468,Unknown,Pol,Goris ,No,GEEL,BELGIUM
+469,Unknown,EWH (Parlevliet),Unknown,No,ROTTERDAM,BELGIUM
+470,Unknown,EWH (Aerts),Unknown,No,ROTTERDAM,BELGIUM
+471,Unknown,Sweers,Jolante ,No,DELFT,NETHERLANDS
+473,mr and mrs,Bok,Ineke en Erwin ,No,HENGELO,NETHERLANDS
+474,Unknown,EWH (Kloosterman),Unknown,No,ROTTERDAM,NETHERLANDS
+475,Unknown,EWH (Huisman),Unknown,No,ROTTERDAM,NETHERLANDS
+476,Unknown,EWH (Maat),Unknown,No,ROTTERDAM,NETHERLANDS
+477,Unknown,Damrau,Doris und Lisa ,No,GELSENKIRCHEN,DEUTSCHLAND
+478,Unknown,Unity Valley Ltd,Unknown,No,CONWY,UNITED KINGDOM
+479,Unknown,Verlent,Anne ,No,KAPELLEN,BELGIUM
+480,Unknown,Swart,Wim ,No,APELDOORN,NETHERLANDS
+481,Unknown,Beekman,Annet ,No,EMMELOORD,NETHERLANDS
+482,Unknown,Straathof,Cor ,No,NIEUWLEUSEN,NETHERLANDS
+483,Unknown,Hagendijk,Rob ,No,WEESP,NETHERLANDS
+484,Unknown,EWH (Helmig),Unknown,No,ROTTERDAM,NETHERLANDS
+485,Unknown,Koldijk,Hanna ,No,DELFT,NETHERLANDS
+486,Unknown,EWH (Vermeulen),Unknown,No,ROTTERDAM,NETHERLANDS
+487,Unknown,Schaik,Naomi van ,No,AMSTERDAM,NETHERLANDS
+488,mr and mrs,Barends,Ineke  en Jan ,No,OESTGEEST,NETHERLANDS
+489,Unknown,EWH (Fruytier),Unknown,No,ROTTERDAM,NETHERLANDS
+492,Unknown,EWH (Holdinga),Unknown,No,ROTTERDAM,NETHERLANDS
+493,Unknown,EWH (Oosthoek),Unknown,No,ROTTERDAM,NETHERLANDS
+494,Unknown,Waringa,Rutger Jan ,No,HEERENVEEN,NETHERLANDS
+495,Unknown,Vliet - Hoogstad,Sissy van ,No,LEEUWARDEN,NETHERLANDS
+496,Unknown,Keijzer,Cocky ,No,OUDDORP,NETHERLANDS
+497,Unknown,EWH (Lammers),Unknown,No,ROTTERDAM,NETHERLANDS
+498,mr and mrs,Tjon-A-Ten,Walther en Annemie ,No,WAALRE,NETHERLANDS
+499,Unknown,"EWH (Weert, van der)",Unknown,No,ROTTERDAM,NETHERLANDS
+500,Unknown,Ee,Patricia van ,No,MAARSSEN,NETHERLANDS
+501,Unknown,Ruemkens-Geels,Anno ,No,DEN HAAG,NETHERLANDS
+502,Unknown,EWH  (Veld),Unknown,No,ROTTERDAM,NETHERLANDS
+503,Unknown,"EWH  (Raalte, van)",Unknown,No,ROTTERDAM,NETHERLANDS
+504,Unknown,"EWH  (Raalte, van)",Unknown,No,ROTTERDAM,NETHERLANDS
+506,Unknown,Bodewits en Wim Sijsjes,Karin ,No,LELYSTAD,NETHERLANDS
+507,Unknown,EWH (Bloklander),Unknown,No,ROTTERDAM,NETHERLANDS
+508,mr and mrs,Sieben,Mieke en Jan Willem ,No,HOUTEN,NETHERLANDS
+509,Unknown,Kildegaard Winstén,Bettina ,No,Brønshøj,DENMARK
+510,Unknown,"EWH (Broek, van den)",Unknown,No,ROTTERDAM,NETHERLANDS
+511,Unknown,EWH (Dijkstra),Unknown,No,ROTTERDAM,NETHERLANDS
+512,Unknown,Rooij,Bas de ,No,MARIAHOUT,NETHERLANDS
+513,Unknown,Pieterman,Geeske ,No,WINSUM,NETHERLANDS
+514,Unknown,"EWH (Wilde,de)",Unknown,No,ROTTERDAM,NETHERLANDS
+515,Unknown,"EWH (Berk, van den)",Unknown,No,ROTTERDAM,NETHERLANDS
+516,Unknown,Visser,Boedien ,No,ALMERE,NETHERLANDS
+517,mr and mrs,Riemslag,Mark en Anne ,No,WAGENINGEN,NETHERLANDS
+518,Unknown,EWH (Schreuder),Unknown,No,ROTTERDAM,NETHERLANDS
+519,Unknown,Lierop,Barbara van ,No,AMSTERDAM,NETHERLANDS
+520,Unknown,EWH (Boelaars),Unknown,No,ROTTERDAM,NETHERLANDS
+521,Unknown,EWH (Lauwerens),Unknown,No,ROTTERDAM,NETHERLANDS
+522,Unknown,Oldenburg,Willeke ,No,ALMERE,NETHERLANDS
+523,mr and mrs,Andel,Frank en Meriam van ,No,ALMERE,NETHERLANDS
+524,Unknown,Cabrita,Eduardo  ,No,LISBOA,PORTUGAL
+525,Unknown,Westen,Marcel van ,No,AMSTERDAM,NETHERLANDS
+526,Unknown,Mahieu,Marianne ,No,Castricum,NETHERLANDS
+527,Unknown,Ardanza Reizen BV  (Helming),Unknown,Ardanza Reizen BV,BUSSUM,NETHERLANDS
+528,Unknown,Schimmer,"Koen, Mischa en Mex ",No,CAPELLE AAN DEN IJSSEL,NETHERLANDS
+529,Unknown,EWH (De Graef),Unknown,No,ROTTERDAM,NETHERLANDS
+530,Unknown,Wissink,Lida ,No,ANDIJK,NETHERLANDS
+531,Unknown,Leussink-Dijkema,Karen ,No,HAARLEM,NETHERLANDS
+532,Unknown,Conceicao Pequito ,(Home Away),No,Unknown,PORTUGAL
+472,Unknown,Riemslag,"Bob, Digna, Cody en Mexi ",No,ALMERE,NETHERLANDS
+534,Unknown,EWH (Koole),Unknown,No,ROTTERDAM,NETHERLANDS
+535,Unknown,Till ,Anja van ,No,EELDE,NETHERLANDS
+536,Unknown,Pereira,Barbosa ,No,Unknown,PORTUGAL
+537,Unknown,EWH (Spiering),Unknown,No,ROTTERDAM,NETHERLANDS
+538,Unknown,Zitman,Louis ,No,LEIDERDORP,NETHERLANDS
+539,Unknown,EWH (Bos),Unknown,No,ROTTERDAM,NETHERLANDS
+540,Unknown,Neefjes en E. Van Dam,E.,No,AMSTERDAM,NETHERLANDS
+541,Unknown,Olsthoorn,Maurien ,No,UTRECHT,NETHERLANDS
+542,Unknown,EWH (Van Ongevalle),Unknown,No,ROTTERDAM,NETHERLANDS
+543,Unknown,Maandag,Elivira ,No,DRIEHUIS,NETHERLANDS
+544,Unknown,Wijnants en Hilde van de Cauter,Vital ,No,KUMTICH,BELGIUM
+545,Unknown,Smeekens,Sanny ,No,BEMMEL,NETHERLANDS
+546,Unknown,Heerema,Caroline ,No,ELBURG,NETHERLANDS
+547,Unknown,Veenendaal,Anouk van ,No,ARCEN,NETHERLANDS
+548,Unknown,Laren,Anjo van ,No,CAPELLE AAN DEN IJSSEL,NETHERLANDS
+549,Unknown,Groot,Co de ,No,VARIK,NETHERLANDS
+550,mr and mrs,Ris,Ankie Verlaan en Marten ,No,LEIDEN,NETHERLANDS
+551,mr and mrs,Hillebrand,Frank en Barbara ,No,UITHOORN,NETHERLANDS
+552,mr and mrs,Riemslag,Bob en Digna ,No,ALMERE,NETHERLANDS
+553,Unknown,Elsen,Koen van ,No,TESSENDERLO,BELGIUM
+554,Unknown,Genderen,Coen van ,No,NOORDELOOS,NETHERLANDS
+555,Unknown,Stelloo,Marije ,No,DELFT,NETHERLANDS
+556,Unknown,Torn,Joke,No,DRONTEN,NETHERLANDS
+557,Unknown,Mulder,Coby ,No,ZWOLLE,NETHERLANDS
+558,Unknown,Araújo,Bárbara ,No,LISBOA,PORTUGAL
+559,Unknown,Esperança,Maria ,No,MARINHA GRANDE,PORTUGAL
+560,Unknown,Batista,Tiago ,No,SETÜBAL,PORTUGAL
+561,Unknown,Serra,Catarina ,No,LISBOA,PORTUGAL
+562,Unknown,Amorimal Alves Lopes,Andreia ,No,MOREIRA DA MAIA,PORTUGAL
+563,Unknown,Almeida,Rosa ,No,LISBOA,PORTUGAL
+564,Unknown,"EWH (Kooten, van)",Unknown,No,ROTTERDAM,NETHERLANDS
+565,Unknown,"Henvi, Lda",Unknown,No,SINTRA,PORTUGAL
+566,Unknown,Sunweb Group GmbH  (EWH: van der Vlugt),Unknown,EWH,ZÜRICH,SWITZERLAND
+567,Unknown,Lindemans-De Decker,Nadia ,No,MORTSEL,BELGIUM
+569,Unknown,Sunweb Group GmbH  (Kleijn),Unknown,EWH,ZÜRICH,NETHERLANDS
+570,mr and mrs,Riemslag Bob en Digna,Bob en Digna ,No,ALMERE,NETHERLANDS
+571,mr and mrs,Riemslag Mark en Anne,Mark en Anne,No,WAGENINGEN,NETHERLANDS
+572,Unknown,Sunweb Group GmbH  (EWH: Verstraeten),Unknown,EWH,ZÜRICH,BELGIUM
+573,Unknown,Appelmans,Familie ,No,COEVORDEN,NETHERLANDS
+574,Unknown,Stradmeijer,Marlys ,No,HAARLEM,NETHERLANDS
+575,Unknown,Helsloot,Carlie ,No,ALMERE,NETHERLANDS
+576,Unknown,Helsloot,Llliian ,No,ALMERE,NETHERLANDS
+577,Unknown,Perdijk,Josë ,No,GOUDA,NETHERLANDS
+578,Unknown,Verhoeven,Margot ,No,Unknown,NETHERLANDS
+579,Unknown,Ducornet,Catherine ,No,SÃO TEOTÓNIO,PORTUGAL
+580,mr and mrs,Oosterhout,Arjan en Annemieke van  ,No,HILVERSUM,NETHERLANDS
+581,Unknown,Haveman,Marjo ,No,SLEEUWIJK,NETHERLANDS
+582,Unknown,Molkenboer,Floor ,No,DRIEBERGEN,NETHERLANDS
+583,Unknown,Triail,Florence ,No,LA VARENNE ST HILAIRE,FRANCE
+584,Unknown,Dam,Elsbeth van ,No,AMSTERDAM,NETHERLANDS
+585,Unknown,Hans en Carla,Unknown,No,Unknown,Unknown
+586,Unknown,Riemslag,Mieke ,No,OOSTERHOUT,NETHERLANDS
+587,Unknown,Leeuw,Loes ,No,UTRECHT,NETHERLANDS
+588,Unknown,Silva,Pedro ,No,LISBOA,PORTUGAL
+589,Unknown,Wolvers,Willem ,No,EPSE,NETHERLANDS
+590,Unknown,Oliveira,Margerida ,No,MAIA,PORTUGAL
+591,Unknown,Steeman,Ton ,No,ZWAAG,NETHERLANDS
+592,Unknown,Madeira,Clara ,No,CARNAXIDE,PORTUGAL
+593,Unknown,Lopes Pais,Lensey ,No,SOBRAL DE MONTE AGRAÇO,PORTUGAL
+594,Unknown,Ferwerda,Nicolette ,No,WARFHUIZEN,NETHERLANDS
+595,Unknown,Piek,Marjoke ,No,WIJE,NETHERLANDS
+596,Unknown,Wammes,Annemarie ,No,BOXMEER,NETHERLANDS
+597,Unknown,Sunweb Group GmbH  (EWH: PAZ),Unknown,EWH,ZÜRICH,SWITZERLAND
+598,Unknown,Bost,José ,No,EYS,NETHERLANDS
+599,Unknown,Sunweb Group GmbH  (EWH: Smit),Unknown,EWH,ZÜRICH,SWITZERLAND
+600,Unknown,Boer,Dick de ,No,CASTRICUM,NETHERLANDS
+601,Unknown,Daele,Jeroen van ,No,Unknown,NETHERLANDS
+602,Unknown,Sunweb Group GmbH  (EWH: Glastra),Unknown,EWH,ZÜRICH,SWITZERLAND
+603,Unknown,Vorst (B.J.A. Riemslag),Unknown,No,ALMERE,NETHERLANDS
+604,Unknown,(Riemslag),Vorst ,No,ALMERE,NETHERLANDS
+605,Unknown,Bostelaar,Leo ,No,AMSTERDAM,NETHERLANDS
+607,Unknown,Sunweb Group GmbH  (EWH: Meier),Unknown,EWH,ZÜRICH,SWITZERLAND
+608,mr and mrs,Hillebrand,Frank en Barbara ,No,UITHOORN,NETHERLANDS
+609,Unknown,Sunweb Group GmbH  (EWH: Burch),Unknown,EWH,ZÜRICH,SWITZERLAND
+610,Unknown,Nossin en Astrid Greven,Mario ,No,AMERSFOORT,NETHERLANDS
+611,Unknown,Steen,Eline van der ,No,AMSTERDAM,NETHERLANDS
+612,Unknown,Steen,Roosmarijn van der ,No,WINTERSWIJK,NETHERLANDS
+613,Unknown,Sunweb Group GmbH  (EWH:Harmelink),Unknown,EWH,ZÜRICH,SWITZERLAND
+614,mr and mrs,Tessel,Koop Reynders en Emmy ,No,AMSTERDAM,NETHERLANDS
+615,Unknown,Sunweb Group GmbH  (EWH:Hooijdonk),Unknown,EWH,ZÜRICH,SWITZERLAND
+616,Unknown,Veldhuis,Marcel ,No,HENGELO,NETHERLANDS
+617,Unknown,"Sunweb Group GmbH  (EWH: Luyten, van)",Unknown,EWH,ZÜRICH,SWITZERLAND
+618,mr and mrs,Henry de Hassonville,Serge en Claire ,No,WOLUWE SAINT LAMBERT,BELGIUM
+619,Unknown,Sunweb Group GmbH  (EWH: van Nieuwenpoort),Unknown,EWH,ZÜRICH,SWITZERLAND
+620,Unknown,Sunweb Group GmbH  (EWH: Hoekstra),Unknown,EWH,ZÜRICH,SWITZERLAND
+621,Unknown,Sakko,Ellen ,No,MERSELO,NETHERLANDS
+622,Unknown,Sunweb Group GmbH  (EWH: D.Martius),Unknown,EWH,ZÜRICH,SWITZERLAND
+623,Unknown,Sunweb Group GmbH  (EWH: Martius),Unknown,EWH,ZÜRICH,SWITZERLAND
+624,Unknown,Sunweb Group GmbH  (EWH: Niessen),Unknown,EWH,ZÜRICH,SWITZERLAND
+625,Unknown,Francissen,Anneke ,No,ARNHEM,NETHERLANDS
+626,Unknown,Bertrand,Garance ,No,NANTES,FRANCE
+627,Unknown,Moel,Marcel de ,No,WEESP,NETHERLANDS
+628,Unknown,Aragonés Chicharro,Blasi ,No,MADRID,ESPANHA
+629,Unknown,Mulder,Robert ,No,AMSTERDAM,NETHERLANDS
+630,Unknown,Sunweb Group GmbH  (EWH: Finnerud),Unknown,EWH,ZÜRICH,SWITZERLAND
+631,Unknown,Piek,Marjoke ,No,WIJHE,NETHERLANDS
+632,Unknown,Martins,Inês ,No,LISBOA,PORTUGAL
+633,Unknown,Costa,Luis ,No,LOURINHÃ,PORTUGAL
+634,mr and mrs,Doorn,Annelies en Martijn van ,No,HAARLEM,NETHERLANDS
+635,Unknown,Casimiro Meleiro,Paulo Jorge ,No,LISBOA,PORTUGAL
+636,Unknown,Sunweb Group GmbH  (EWH: Metten),Unknown,EWH,ZÜRICH,SWITZERLAND
+637,Unknown,Sunweb Group GmbH (Dokter),Unknown,EWH,ZÜRICH,SWITZERLAND
+638,Unknown,"Sunweb Group GmbH (Sloten, van)",Unknown,EWH,ZÜRICH,SWITZERLAND
+459,mr and mrs,Beukema,Addy en Frans,No,UTRECHT,NETHERLANDS
+640,mr and mrs,Harland,Ton en Loes ,No,S-GRAVENHAGE,NETHERLANDS
+641,mr and mrs,Beukema ,Addy en Frans ,No,UTRECHT,NETHERLANDS
+642,Unknown,de Mooy-Veenstra,Maaike ,No,VLEUTEN,NETHERLANDS
+644,Unknown,Leemans,Clasina ,No,KATWIJK AAN ZEE,NETHERLANDS
+645,Unknown,Beekman ,Annet ,No,EMMELOORD,NETHERLANDS
+646,Unknown,Sunweb Group GmbH (Polak),Unknown,EWH,ZÜRICH,SWITZERLAND
+647,Unknown,Hamers,Pieter-Jan ,No,AMERSFOORT,NETHERLANDS
+648,Unknown,Sanders,Diana Hecker & Michel ,No,OVERASSELT,NETHERLANDS
+649,Unknown,Lópes Ewert,Elena ,No,MADRID,ESPANHA
+650,Unknown,Oliveira,Margarida ,No,MAIA,PORTUGAL
+651,Unknown,Lopes Granja,Hugo ,No,"MOREIRA, MAIA",PORTUGAL
+652,Unknown,Amorim ,Diana ,No,"MOREIRA, MAIA",PORTUGAL
+653,Unknown,Sunweb Group GmbH (Hokke),Unknown,EWH,ZÜRICH,SWITZERLAND
+654,Unknown,Sunweb Group GmbH (Tolkamp),Unknown,EWH,ZÜRICH,SWITZERLAND
+655,Unknown,Sunweb Group GmbH (Kuilboer),Unknown,EWH,ZÜRICH,SWITZERLAND
+656,Unknown,Meyer-Spasche,Jonna ,No,BERLIN,DEUTSCHLAND
+657,Unknown,Sunweb Group GmbH (Langenberg),Unknown,EWH,ZÜRICH,SWITZERLAND
+658,mr and mrs,Steinhart,Carla en Hans ,No,ALMERE,NETHERLANDS
+659,Unknown,Sunweb Group GmbH (Lammers),Unknown,EWH,ZÜRICH,SWITZERLAND
+661,Unknown,Sunweb Group GmbH (Smet),Unknown,EWH,ZÜRICH,SWITZERLAND
+662,Unknown,Sunweb Group GmbH (Ederveen),Unknown,EWH,ZÜRICH,SWITZERLAND
+663,Unknown,Sunweb Group GmbH (Piek),Unknown,EWH,ZÜRICH ,SWITZERLAND
+664,Unknown,Gerits,Nele ,No,GENT,BELGIUM
+665,Unknown,Holsbeeck,Emilia van ,No,OPDORP,BELGIUM
+666,Unknown,Louw,AnneMarie de ,No,WAALWIJK,NETHERLANDS
+667,Unknown,Sunweb Group GmbH (Wiersma),Unknown,EWH,ZÜRICH ,SWITZERLAND
+668,mr and mrs,Jansen ,Jacques en Henriette ,No,ENKHUIZEN,NETHERLANDS
+669,Unknown,Sunweb Group GmbH (Bossers),Unknown,EWH,ZÜRICH ,SWITZERLAND
+670,Unknown,Sunweb Group GmbH (Bekooij),Unknown,EWH,ZÜRICH ,SWITZERLAND
+671,Unknown,Molendijk ,Jan ,No,LEIDERDORP,NETHERLANDS
+672,Unknown,Sunweb Group GmbH (Lispet),Unknown,EWH,ZÜRICH ,SWITZERLAND
+673,Unknown,Lievens,Liese ,No,BAMBRUGGE,BELGIUM
+674,Unknown,Vleeshouwers,Irene ,No,ROTTERDAM,NETHERLANDS
+675,Unknown,Sunweb Group GmbH (Kooi),Unknown,EWH,ZÜRICH ,SWITZERLAND
+676,Unknown,Breemen,Anja van ,No,RHEDEN,NETHERLANDS
+677,mr and mrs,Laar,Frank en Dominique van ,No,HAARLEM,NETHERLANDS
+678,Unknown,Sunweb Group GmbH (Bartelink),Unknown,EWH,ZÜRICH ,SWITZERLAND
+679,Unknown,Sunweb Group GmbH (Sakko),Unknown,EWH,ZÜRICH ,SWITZERLAND
+680,Unknown,Sunweb Group GmbH (Boemaars),Unknown,EWH,ZÜRICH ,SWITZERLAND
+681,Unknown,Sunweb Group GmbH (Grund),Unknown,EWH,ZÜRICH ,SWITZERLAND
+682,Unknown,Sunweb Group GmbH (Oosterwijk),Unknown,EWH,ZÜRICH ,SWITZERLAND
+683,Unknown,Sunweb Group GmbH (de  Staint Aulaire),Unknown,EWH,ZÜRICH ,SWITZERLAND
+684,Unknown,Sunweb Group GmbH (Boog),Unknown,EWH,ZÜRICH ,SWITZERLAND
+685,Unknown,Bruin ,Sweder de ,No,s-GRAVENHAGE,NETHERLANDS
+686,Unknown,Veenendaal,Marjolein ,No,AMSTERDAM,NETHERLANDS
+687,Unknown,Duijnstee,Mia ,No,UTRECHT,NETHERLANDS
+688,Unknown,Korrelboom,Jeanine ,No,ALMERE,NETHERLANDS
+689,Unknown,Sunweb Group GmbH (Buskermolen ),Unknown,EWH,ZÜRICH ,SWITZERLAND
+692,Unknown,C.A. Schimmer,Unknown,No,SÃO TEOTÓNIO,PORTUGAL
+694,Unknown,Manuel Domingos Gomes,Unknown,No,SÃO TEOTÓNIO,PORTUGAL
+690,Unknown,Manuel Santos Francisco Garçia,Unknown,No,SÃO TEOTÓNIO,PORTUGAL
+693,Unknown,V . M . BÜHLER Com. de Madeira e Serv. Lda,Unknown,No,Santa-Luzia /Ourique,PORTUGAL
+691,Unknown,Jean-Pierre Vermeersch,Unknown,No,SÃO TEOTÓNIO,PORTUGAL
